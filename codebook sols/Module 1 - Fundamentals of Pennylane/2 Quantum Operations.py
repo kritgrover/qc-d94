@@ -1,4 +1,4 @@
-import pennylane as qml # type: ignore
+import pennylane as qml
 import numpy as np
 
 # Exercise 2.1

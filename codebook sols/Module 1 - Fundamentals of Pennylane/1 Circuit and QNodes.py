@@ -1,4 +1,4 @@
-import pennylane as qml # type: ignore
+import pennylane as qml
 
 # Exercise 1.1a
 def circuit(theta): # Write any arguments you need here
