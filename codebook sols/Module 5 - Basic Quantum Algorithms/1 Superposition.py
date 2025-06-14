@@ -1,7 +1,7 @@
 import pennylane as qml
 import numpy as np
 
-# Exercise 
+# Exercise 1.1
 n_bits = 4
 dev = qml.device("default.qubit", wires=n_bits)
 
